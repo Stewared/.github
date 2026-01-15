@@ -1,4 +1,6 @@
 [![Support Server](https://img.shields.io/discord/983074750165299250?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/k3yVkrrvez)
+&nbsp;&nbsp;
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?business=kestron@kestron.software&no_recurring=0&item_name=KestronProgramming&item_number=Stewbot)
 
 # Stewared
 Stewared is where ethically responsible projects can be found. We make unique, private, free, open source software that can be used as original ideas unique to us, or as alternatives to ethically irresponsible software made by large tech. We are highly open to collaboration, feedback, and do everything we can to have no ads, no data collection, no data selling, no paid tiers for the sake of payment, and to provide the best experience we are capable of providing.
