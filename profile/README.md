@@ -19,4 +19,4 @@ MiiJS is the best NPM package to allow you to work fully with Nintendo Mii chara
 Sleuth is a search engine that takes results from the biggest search engines and averages the results, acting as a proxy to help privatize your searches while also helping combat sponsored results and give you the results all of the search engines agree are relevant to you.
 
 ## [InfiniMii](https://github.com/Stewared/InfiniMii)
-InfiniMii is a WIP website soon to be released that will let you leverage all of the many powerful tools MiiJS provides from a website GUI, in addition to sharing and downloading other people's Miis.
+InfiniMii is a website that lets you leverage all of the many powerful tools MiiJS provides from a website GUI, in addition to sharing and downloading other people's Miis and more.
