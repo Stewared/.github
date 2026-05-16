@@ -9,14 +9,17 @@ Stewared is where ethically responsible projects can be found. We make unique, p
 
 # Current Projects
 
+## [InfiniMii](https://github.com/Stewared/InfiniMii)
+InfiniMii is a website that lets you leverage all of the many powerful tools MiiJS provides from a website GUI, in addition to sharing and downloading other people's Miis and more.
+
 ## [Stewbot](https://github.com/Stewared/Stewbot)
 Stewbot aims to be the ultimate Discord bot, and the only bot you'll ever need. It does everything from moderation to entertainment, and adds tons of Quality of Life enhancements.
 
 ## [MiiJS](https://github.com/Stewared/MiiJS)
 MiiJS is the best NPM package to allow you to work fully with Nintendo Mii characters from your Node.js project.
 
+## [Mongocord](https://github.com/Stewared/Mongocord)
+A MongoDB Client for for Discord. Designed to feel like MongoDB Compass.
+
 ## [Sleuth](https://github.com/Stewared/Sleuth)
 Sleuth is a search engine that takes results from the biggest search engines and averages the results, acting as a proxy to help privatize your searches while also helping combat sponsored results and give you the results all of the search engines agree are relevant to you.
-
-## [InfiniMii](https://github.com/Stewared/InfiniMii)
-InfiniMii is a website that lets you leverage all of the many powerful tools MiiJS provides from a website GUI, in addition to sharing and downloading other people's Miis and more.
